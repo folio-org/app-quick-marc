@@ -1,0 +1,37 @@
+{
+  "name": "${project.name}",
+  "version": "${project.version}",
+  "description": "${project.description}",
+  "platform": "complete",
+  "dependencies": [
+    {
+      "name": "app-marc-storage",
+      "version": "^1.0.0-SNAPSHOT",
+      "preRelease": "only"
+    },
+    {
+      "name": "app-platform-minimal",
+      "version": "^2.1.0-SNAPSHOT",
+      "preRelease": "only"
+    }
+  ],
+  "modules": [
+    {
+      "name": "mod-quick-marc",
+      "version": "latest",
+      "preRelease": "only"
+    }
+  ],
+  "uiModules": [
+    {
+      "name": "ui-quick-marc",
+      "version": "latest",
+      "preRelease": "only"
+    },
+    {
+      "name": "stripes-marc-components",
+      "version": "latest",
+      "preRelease": "only"
+    }
+  ]
+}
