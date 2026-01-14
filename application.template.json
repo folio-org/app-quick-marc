@@ -24,12 +24,12 @@
   ],
   "uiModules": [
     {
-      "name": "ui-quick-marc",
+      "name": "folio_quick-marc",
       "version": "latest",
       "preRelease": "only"
     },
     {
-      "name": "stripes-marc-components",
+      "name": "folio_stripes-marc-components",
       "version": "latest",
       "preRelease": "only"
     }
