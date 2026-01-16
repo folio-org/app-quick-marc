@@ -6,32 +6,32 @@
   "dependencies": [
     {
       "name": "app-marc-storage",
-      "version": "^1.0.0-SNAPSHOT",
-      "preRelease": "only"
+      "version": "^1.0.0",
+      "preRelease": "false"
     },
     {
       "name": "app-platform-minimal",
-      "version": "^2.1.0-SNAPSHOT",
-      "preRelease": "only"
+      "version": "^2.0.0",
+      "preRelease": "false"
     }
   ],
   "modules": [
     {
       "name": "mod-quick-marc",
       "version": "latest",
-      "preRelease": "only"
+      "preRelease": "false"
     }
   ],
   "uiModules": [
     {
       "name": "folio_quick-marc",
       "version": "latest",
-      "preRelease": "only"
+      "preRelease": "false"
     },
     {
       "name": "folio_stripes-marc-components",
       "version": "latest",
-      "preRelease": "only"
+      "preRelease": "false"
     }
   ]
 }
