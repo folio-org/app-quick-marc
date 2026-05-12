@@ -6,7 +6,7 @@
   <artifactId>app-quick-marc</artifactId>
   <groupId>org.folio</groupId>
   <description>Quick MARC Application</description>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
 
   <properties>
     <project.name>app-quick-marc</project.name>
