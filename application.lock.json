@@ -1,7 +1,7 @@
 {
-  "id" : "app-quick-marc-1.1.0-SNAPSHOT.100200000005718",
+  "id" : "app-quick-marc-1.1.0-SNAPSHOT.100200000005808",
   "name" : "app-quick-marc",
-  "version" : "1.1.0-SNAPSHOT.100200000005718",
+  "version" : "1.1.0-SNAPSHOT.100200000005808",
   "description" : "Quick MARC Application",
   "modules" : [ {
     "id" : "mod-quick-marc-8.1.0-SNAPSHOT.2272",
@@ -9,13 +9,13 @@
     "version" : "8.1.0-SNAPSHOT.2272"
   } ],
   "uiModules" : [ {
+    "id" : "folio_stripes-marc-components-2.1.1099000000000244",
+    "name" : "folio_stripes-marc-components",
+    "version" : "2.1.1099000000000244"
+  }, {
     "id" : "folio_quick-marc-11.1.1099000000000601",
     "name" : "folio_quick-marc",
     "version" : "11.1.1099000000000601"
-  }, {
-    "id" : "folio_stripes-marc-components-2.1.1099000000000239",
-    "name" : "folio_stripes-marc-components",
-    "version" : "2.1.1099000000000239"
   } ],
   "dependencies" : [ {
     "name" : "app-marc-storage",
@@ -317,7 +317,7 @@
       }
     }
   }, {
-    "id" : "folio_stripes-marc-components-2.1.1099000000000239",
+    "id" : "folio_stripes-marc-components-2.1.1099000000000244",
     "name" : "Component library for Stripes Marc modules",
     "requires" : [ ],
     "optional" : [ {
