@@ -1,7 +1,7 @@
 {
-  "id" : "app-quick-marc-1.1.0-SNAPSHOT.100200000006381",
+  "id" : "app-quick-marc-1.1.0-SNAPSHOT.100200000006416",
   "name" : "app-quick-marc",
-  "version" : "1.1.0-SNAPSHOT.100200000006381",
+  "version" : "1.1.0-SNAPSHOT.100200000006416",
   "description" : "Quick MARC Application",
   "modules" : [ {
     "id" : "mod-quick-marc-8.1.0-SNAPSHOT.2284",
@@ -9,9 +9,9 @@
     "version" : "8.1.0-SNAPSHOT.2284"
   } ],
   "uiModules" : [ {
-    "id" : "folio_quick-marc-11.1.1099000000000610",
+    "id" : "folio_quick-marc-11.1.1099000000000613",
     "name" : "folio_quick-marc",
-    "version" : "11.1.1099000000000610"
+    "version" : "11.1.1099000000000613"
   }, {
     "id" : "folio_stripes-marc-components-2.1.1099000000000244",
     "name" : "folio_stripes-marc-components",
@@ -216,7 +216,7 @@
     }
   } ],
   "uiModuleDescriptors" : [ {
-    "id" : "folio_quick-marc-11.1.1099000000000610",
+    "id" : "folio_quick-marc-11.1.1099000000000613",
     "name" : "Quick MARC editor",
     "requires" : [ {
       "id" : "marc-records-editor",
