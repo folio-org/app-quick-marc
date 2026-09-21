@@ -1,12 +1,12 @@
 {
-  "id" : "app-quick-marc-1.1.0-SNAPSHOT.100200000006478",
+  "id" : "app-quick-marc-1.1.0-SNAPSHOT.100200000006578",
   "name" : "app-quick-marc",
-  "version" : "1.1.0-SNAPSHOT.100200000006478",
+  "version" : "1.1.0-SNAPSHOT.100200000006578",
   "description" : "Quick MARC Application",
   "modules" : [ {
-    "id" : "mod-quick-marc-8.1.0-SNAPSHOT.2290",
+    "id" : "mod-quick-marc-8.1.0-SNAPSHOT.2293",
     "name" : "mod-quick-marc",
-    "version" : "8.1.0-SNAPSHOT.2290"
+    "version" : "8.1.0-SNAPSHOT.2293"
   } ],
   "uiModules" : [ {
     "id" : "folio_quick-marc-11.1.1099000000000616",
@@ -27,7 +27,7 @@
     "preRelease" : "only"
   } ],
   "moduleDescriptors" : [ {
-    "id" : "mod-quick-marc-8.1.0-SNAPSHOT.2290",
+    "id" : "mod-quick-marc-8.1.0-SNAPSHOT.2293",
     "name" : "quickMARC",
     "requires" : [ {
       "id" : "source-storage-snapshots",
@@ -158,7 +158,7 @@
       "subPermissions" : [ "marc-records-editor.item.get", "marc-records-editor.item.post", "marc-records-editor.item.put", "marc-records-editor.links.suggestion.post", "marc-records-editor.validate.post" ]
     } ],
     "launchDescriptor" : {
-      "dockerImage" : "folioci/mod-quick-marc:8.1.0-SNAPSHOT.2290",
+      "dockerImage" : "folioci/mod-quick-marc:8.1.0-SNAPSHOT.2293",
       "dockerPull" : true,
       "env" : [ {
         "name" : "JAVA_OPTIONS",
