@@ -9,9 +9,9 @@
     "version" : "8.0.2"
   } ],
   "uiModules" : [ {
-    "id" : "folio_quick-marc-11.0.1",
+    "id" : "folio_quick-marc-11.0.2",
     "name" : "folio_quick-marc",
-    "version" : "11.0.1"
+    "version" : "11.0.2"
   }, {
     "id" : "folio_stripes-marc-components-2.1.1",
     "name" : "folio_stripes-marc-components",
@@ -216,7 +216,7 @@
     }
   } ],
   "uiModuleDescriptors" : [ {
-    "id" : "folio_quick-marc-11.0.1",
+    "id" : "folio_quick-marc-11.0.2",
     "name" : "Quick MARC editor",
     "requires" : [ {
       "id" : "marc-records-editor",
